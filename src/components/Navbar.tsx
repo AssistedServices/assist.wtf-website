@@ -6,7 +6,7 @@ const navItems = [
   { to: "/", label: "Home" },
   { to: "/automations", label: "Automations" },
   { to: "/blog", label: "Blog" },
-  { to: "/contact", label: "Contact" },
+  { to: "/CaseStudies", label: "Case Studies" },
 ];
 
 function Navbar() {
