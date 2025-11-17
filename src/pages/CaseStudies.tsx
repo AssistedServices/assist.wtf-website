@@ -57,7 +57,7 @@ function extractFirstImage(html: string): string | null {
   return match ? match[1] : null;
 }
 
-function caseStudies() {
+function CaseStudies() {
   const [posts, setPosts] = useState<MediumPost[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -205,4 +205,4 @@ function caseStudies() {
   );
 }
 
-export default caseStudies;
+export default CaseStudies;
