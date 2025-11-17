@@ -5,7 +5,6 @@ import assistLogo from "../assets/branding/site-logo-long.png"; // <- keep your 
 const navItems = [
   { to: "/", label: "Home" },
   { to: "/automations", label: "Automations" },
-  { to: "/blog", label: "Blog" },
   { to: "/CaseStudies", label: "Case Studies" },
 ];
 
