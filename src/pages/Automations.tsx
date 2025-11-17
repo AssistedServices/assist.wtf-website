@@ -15,8 +15,9 @@ function Automations() {
           makes sense, we add it in carefully — not just for the buzzword.
         </p>
         <p className="text-sm text-ink-muted">
-          Below are examples of automations I’ve actually built. Each can be
-          adapted to your stack without starting from scratch.
+          Below are examples of automations we have actually built. Each can be
+          adapted to your stack without starting from scratch. Your best option is to contact us
+          so we can discuss your individual needs.
         </p>
       </section>
 
